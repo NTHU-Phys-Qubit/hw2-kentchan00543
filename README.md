@@ -1,1 +1,3 @@
 # 10820PHYS401200-HW2
+#Name :CHAN WENG KENT ³¯¥Ã°·
+#Student NO : 105022164
